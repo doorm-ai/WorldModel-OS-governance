@@ -1,0 +1,92 @@
+# ============================================================
+# DOORM WorldModel-OS-governance — .gitignore
+#
+# Critical principle: NEVER commit private agreements, secrets,
+# or session-internal artifacts to a public repo.
+# ============================================================
+
+# --- Word/Office lock and temporary files ---
+~$*.docx
+~$*.xlsx
+~$*.pptx
+~$*.dotx
+*.tmp
+*.bak
+*.~*
+
+# --- Python (script-generation artifacts) ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+_gen_*.py
+gen_*.py.bak
+
+# --- OS / IDE droppings ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# --- Sensitive: NEVER commit (will leak PHI/PII or break IP) ---
+# Author agreements (contain ID numbers, addresses, signatures)
+*AUTHOR-AGREEMENT*.docx
+*AUTHOR-AGREEMENT*.pdf
+*-signed.pdf
+*-signed.docx
+
+# Secrets / credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+private/
+credentials.json
+
+# Internal session artifacts (governance-only, not for public)
+PENDING-DECISIONS.md
+SESSION-LOG-*.md
+V0.1-RELEASE-CHECKLIST.md
+
+# --- L3 artifacts (commercial / clinical governance) ---
+# Per paper §11: L3 is NOT open-source
+*.lora.safetensors
+*.gguf
+clinical-adapters/
+partner-data/
+device-keys/
+
+# --- Build / archive artifacts ---
+*.zip
+*.tar.gz
+*.7z
+build/
+dist/
+release/
+node_modules/
+
+# --- Editor backups ---
+*~
+.#*
+\#*\#
+*.orig
+*.rej
+
+# ============================================================
+# IF YOU ARE UNSURE ABOUT A FILE — DO NOT git add IT.
+# Ask in repo Issues or via service@doorm.ai first.
+# ============================================================

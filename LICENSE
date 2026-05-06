@@ -1,0 +1,70 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 DOORM AI PTE. LTD. (UEN 202441729W).
+
+All economic rights in this work are held by DOORM AI PTE. LTD.
+pursuant to a written Author Agreement among the paper's authors.
+The authors retain moral rights (right of attribution) only.
+
+Author attribution is provided in the paper's "Authors" and "Author
+Contributions (CRediT)" sections, and machine-readable in CITATION.cff.
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+or send a letter to Creative Commons, PO Box 1866, Mountain View,
+CA 94042, USA.
+
+You are free to:
+
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+            for any purpose, even commercially
+
+The licensor cannot revoke these freedoms as long as you follow the
+license terms.
+
+Under the following terms:
+
+  - Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made. You may do so in
+    any reasonable manner, but not in any way that suggests the
+    licensor endorses you or your use.
+
+  - No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+Notices:
+
+  - You do not have to comply with the license for elements of the
+    material in the public domain or where your use is permitted by
+    an applicable exception or limitation.
+
+  - No warranties are given. The license may not give you all of the
+    permissions necessary for your intended use. For example, other
+    rights such as publicity, privacy, or moral rights may limit how
+    you use the material.
+
+For the full legal code, see:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+------------------------------------------------------------------------
+
+NOTE ON SCOPE
+
+This LICENSE applies to:
+  - All paper files (PAPER-*.md / *.pdf)
+  - All other documents in this repository (README.md, SECURITY.md,
+    CITATION.cff, and any future governance documents added here)
+
+This LICENSE does NOT apply to:
+  - Source code in linked repositories
+    (github.com/doorm-ai/WorldModel-OS, github.com/doorm-ai/Finetune-Workbench)
+    which are licensed under AGPL-3.0-or-later.
+  - L3 artifacts (production weights, clinical adapters, partner data,
+    device authentication keys), which are held under separate commercial
+    and clinical governance by DOORM AI PTE. LTD. and are NOT released
+    under any open-source or open-data license.

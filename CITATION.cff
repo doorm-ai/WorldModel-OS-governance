@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "DOORM WorldModel-OS: A Governance-First Architecture for Auditable Agentic Reasoning"
+abstract: >
+  We present DOORM WorldModel-OS, a hybrid local/cloud operating system
+  for auditable agentic world models, paired with the model-agnostic
+  Finetune Workbench. The design rejects two dominant assumptions in
+  contemporary large-model practice: (i) capability is monotone in
+  parameter count, and (ii) alignment can be bolted onto a post-training
+  checkpoint. We factor the system into seven cognitive increments
+  grounded in a discrete state space (8/64/384 anchors), enforce safety
+  through a four-level rollback contract, and use a five-class
+  grounded-citation training pipeline with three hard gates. Applications
+  motivate the design through medical-adjacent settings — Traditional
+  Chinese Medicine syndrome differentiation and rehabilitation robotics —
+  where per-decision auditability and refusal-by-default beat
+  benchmark-scale gains.
+authors:
+  - family-names: Tong
+    given-names: Li
+    affiliation: "DOORM AI PTE. LTD."
+    email: "service@doorm.ai"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # 童立 ORCID 待补
+  - family-names: Tong
+    given-names: Tong
+    affiliation: "DOORM AI PTE. LTD."
+    orcid: "https://orcid.org/0009-0007-6563-9525"
+  - family-names: Wu
+    given-names: Lihua
+    affiliation: "Independent Researcher"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # 吴丽华 ORCID 待补
+version: "0.2.0"
+date-released: "2026-XX-XX"  # 实际 GitHub Release 当天日期
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20053545"
+    description: "Zenodo deposit DOI"
+license: CC-BY-4.0
+url: "https://github.com/doorm-ai/WorldModel-OS-governance"
+repository-code: "https://github.com/doorm-ai/WorldModel-OS-governance"
+keywords:
+  - world model
+  - LoRA fine-tuning
+  - auditable inference
+  - clinical safety
+  - discrete state space
+  - structural prior
+  - anti-scale training
+  - Traditional Chinese Medicine decision support
+  - reproducibility
+  - defensive disclosure
+  - falsifiability
+contact:
+  - email: "service@doorm.ai"
+    family-names: Tong
+    given-names: Li
