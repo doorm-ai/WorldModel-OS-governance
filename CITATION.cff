@@ -21,7 +21,6 @@ authors:
     given-names: Li
     affiliation: "DOORM AI PTE. LTD."
     email: "service@doorm.ai"
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # 童立 ORCID 待补
   - family-names: Tong
     given-names: Tong
     affiliation: "DOORM AI PTE. LTD."
@@ -29,9 +28,8 @@ authors:
   - family-names: Wu
     given-names: Lihua
     affiliation: "Independent Researcher"
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # 吴丽华 ORCID 待补
 version: "0.2.0"
-date-released: "2026-XX-XX"  # 实际 GitHub Release 当天日期
+date-released: "2026-05-06"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20053545"
