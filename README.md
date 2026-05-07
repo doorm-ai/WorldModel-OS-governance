@@ -1,8 +1,12 @@
 # DOORM WorldModel-OS
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20053545.svg)](https://doi.org/10.5281/zenodo.20053545)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20053545-1682d4)](https://doi.org/10.5281/zenodo.20053545)
+[![Release](https://img.shields.io/github/v/release/doorm-ai/WorldModel-OS-governance)](https://github.com/doorm-ai/WorldModel-OS-governance/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/doorm-ai/WorldModel-OS-governance)](https://github.com/doorm-ai/WorldModel-OS-governance/commits/main)
+[![Stars](https://img.shields.io/github/stars/doorm-ai/WorldModel-OS-governance?style=social)](https://github.com/doorm-ai/WorldModel-OS-governance/stargazers)
 [![Paper License: CC BY 4.0](https://img.shields.io/badge/Paper%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code License: AGPL-3.0](https://img.shields.io/badge/Code%20License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
+[![Cite](https://img.shields.io/badge/Cite-CITATION.cff-success)](./CITATION.cff)
 
 > **A Governance-First Architecture for Auditable Agentic Reasoning**
 > Hybrid State-Space · Structurally-Primed Discrete Anchors · Anti-Scale Training Discipline
