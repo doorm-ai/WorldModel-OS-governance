@@ -39,8 +39,8 @@ This repository hosts the **defensive preprint**, governance documents, threat m
 
 The platform and workbench code (separately governed):
 
-- **[WorldModel-OS](https://github.com/doorm-ai/Genmount-WorldModel-OS)** — L1 platform skeleton (AGPL-3.0-or-later)
-- **[Finetune-Workbench](https://github.com/doorm-ai/Genmount-Finetune-Workbench)** — L2 training workbench (AGPL-3.0-or-later); base-model agnostic
+- **[Genmount WorldModel-OS](https://github.com/doorm-ai/Genmount-WorldModel-OS)** — L1 platform skeleton (AGPL-3.0-or-later)
+- **[Genmount Finetune-Workbench](https://github.com/doorm-ai/Genmount-Finetune-Workbench)** — L2 training workbench (AGPL-3.0-or-later); base-model agnostic
 
 ---
 
