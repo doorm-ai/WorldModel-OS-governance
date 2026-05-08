@@ -62,7 +62,7 @@ This LICENSE applies to:
 
 This LICENSE does NOT apply to:
   - Source code in linked repositories
-    (github.com/doorm-ai/WorldModel-OS, github.com/doorm-ai/Finetune-Workbench)
+    (github.com/doorm-ai/Genmount-WorldModel-OS, github.com/doorm-ai/Genmount-Finetune-Workbench)
     which are licensed under AGPL-3.0-or-later.
   - L3 artifacts (production weights, clinical adapters, partner data,
     device authentication keys), which are held under separate commercial

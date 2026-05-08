@@ -1,5 +1,5 @@
 # ============================================================
-# DOORM WorldModel-OS-governance — .gitignore
+# DOORM Genmount WorldModel-OS-Governance — .gitignore
 #
 # Critical principle: NEVER commit private agreements, secrets,
 # or session-internal artifacts to a public repo.

@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 type: article
-title: "DOORM WorldModel-OS: A Governance-First Architecture for Auditable Agentic Reasoning"
+title: "DOORM Genmount WorldModel-OS: A Governance-First Architecture for Auditable Agentic Reasoning"
 abstract: >
-  We present DOORM WorldModel-OS, a hybrid local/cloud operating system
+  We present DOORM Genmount WorldModel-OS, a hybrid local/cloud operating system
   for auditable agentic world models, paired with the model-agnostic
   Finetune Workbench. The design rejects two dominant assumptions in
   contemporary large-model practice: (i) capability is monotone in
@@ -35,8 +35,8 @@ identifiers:
     value: "10.5281/zenodo.20053545"
     description: "Zenodo deposit DOI"
 license: CC-BY-4.0
-url: "https://github.com/doorm-ai/WorldModel-OS-governance"
-repository-code: "https://github.com/doorm-ai/WorldModel-OS-governance"
+url: "https://github.com/doorm-ai/Genmount-WorldModel-OS-Governance"
+repository-code: "https://github.com/doorm-ai/Genmount-WorldModel-OS-Governance"
 keywords:
   - world model
   - LoRA fine-tuning
